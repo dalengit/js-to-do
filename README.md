@@ -1,5 +1,7 @@
 # JS to do 
 
+Website live at : http://dalenchan.tech/js-to-do/
+
 A simple to-do app exploring the following JS concepts: 
 
 - querySelector()
